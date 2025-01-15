@@ -414,3 +414,85 @@ nav ul{
 .date{
   margin-bottom: 15px;
 }
+
+
+
+
+.donate-today{
+  text-align: center;
+  margin-top: 100px;
+}
+
+.boxes{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  width: 70%;
+  margin: 30px 300px 30px 300px;
+}
+
+.text{
+  /* width: 100%;
+  text-align: center;
+  padding: 10px 300px 10px 300px; */
+  /* display: flex; */
+    flex-direction: column;
+    /* height: 313px; */
+    background-image: url('../assets/handshake.jpg');
+    background-position: center;
+    border-radius: 5px;
+    margin-top: 49px;
+    margin-left: 200px;
+    
+  }
+
+.form-long{
+  padding: 12px 20px;
+  background-color: #FFFFFF;
+  width: 85%;
+  border-radius: 5px;
+  text-align: center;
+  margin: 0 50px 0 50px;
+  
+}
+
+
+
+.last-btn{
+  text-align: center;
+  margin-top: 20px;
+  margin:17px 24px 17px 24px ;
+}
+
+.A1{
+  background-color:#FFFFFF ;
+  border-radius: 8px;
+  color:#0E0E0E ;
+  font-size: 20px;
+  font-weight: bold;
+  padding:20px ;
+}
+.A2{
+  background-color:#C6E4D6 ;
+  border-radius: 8px;
+  color:#0E0E0E ;
+  font-size: 20px;
+  font-weight: bold;
+  padding:20px ;
+}
+.A3{
+  background-color:#FFFFFF ;
+  border-radius: 8px;
+  color:#0E0E0E ;
+  font-size: 20px;
+  font-weight: bold;
+  padding:20px ;
+}
+.A4{
+  background-color:#FFFFFF ;
+  border-radius: 8px;
+  color:#0E0E0E ;
+  font-size: 20px;
+  font-weight: bold;
+  padding:20px ;
+}
