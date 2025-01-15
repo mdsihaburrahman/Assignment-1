@@ -1,0 +1,189 @@
+.fira-sans-thin {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .fira-sans-extralight {
+    font-family: "Fira Sans", serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .fira-sans-light {
+    font-family: "Fira Sans", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .fira-sans-medium {
+    font-family: "Fira Sans", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .fira-sans-semibold {
+    font-family: "Fira Sans", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .fira-sans-bold {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .fira-sans-extrabold {
+    font-family: "Fira Sans", serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .fira-sans-black {
+    font-family: "Fira Sans", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .fira-sans-thin-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .fira-sans-extralight-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .fira-sans-light-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .fira-sans-regular-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .fira-sans-medium-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .fira-sans-semibold-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .fira-sans-bold-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .fira-sans-extrabold-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  .fira-sans-black-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+
+  
+
+/* nav styles */
+.btn-primary{
+    background-color: white;
+    color: #006a50;
+    font-weight: 600px;
+    padding: 7px 15px;
+    border-radius: 8px;
+    border-color: #006A50;
+}
+
+
+.btn-1{
+  background-color: #006A50;
+  color: #FFFFFF;
+  padding: 8px;
+  border-radius: 8px;
+  /* margin: 8px 16px; */
+  font-weight: 600px;
+  margin-top: 50px;
+  margin-bottom: 117px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 31px 160px;
+}
+.nav-title{
+    font-weight: bold;
+    font-size: 32px;
+}
+nav ul li{
+    list-style: none;
+    
+
+}
+nav li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #006A50;
+}
+nav ul{
+    display: flex;
+}
+.header{
+  background-color:#C6E4D6 ;
+  padding: 90px 55px 90px 55px;
+  border-radius: 24px;
+}
+
+
+.banner{
+  display: flex;
+  justify-content: space-around;
+  margin: 150px 219px 0 219px;
+}
+.banner-content{
+  max-width: 622px;
+}
+
+.banner-greetings{
+  color: rgba(14, 14, 14, 0.5);
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+.banner-title{
+  font-weight: bold;
+  font-size: 56px;
+  color: #0E0E0E;
+  margin-top: 16px;
+  margin-bottom: 0px;
+
+}
+
+.ner-profile-picture{
+  width: 475px;
+  margin: 80px 55px 80px 64px;
+}
