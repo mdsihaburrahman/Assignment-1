@@ -105,6 +105,16 @@
     font-weight: 900;
     font-style: italic;
   }
+
+
+  *{
+    margin: 1px;
+    padding: 0px 30px 0px 30px;
+  }
+  .background-color{
+    background-color: #F1F1F3;
+    
+  }
   
 
   
@@ -123,12 +133,13 @@
 .btn-1{
   background-color: #006A50;
   color: #FFFFFF;
-  padding: 8px;
+  padding: 10px 20px 10px 20px;
   border-radius: 8px;
   /* margin: 8px 16px; */
   font-weight: 600px;
   margin-top: 50px;
   margin-bottom: 117px;
+  
 }
 nav{
     display: flex;
@@ -163,7 +174,10 @@ nav ul{
 .banner{
   display: flex;
   justify-content: space-around;
-  margin: 150px 219px 0 219px;
+  margin: 70px 110px 0 110px;
+}
+.banner header{
+  width: 100%;
 }
 .banner-content{
   max-width: 622px;
@@ -186,4 +200,217 @@ nav ul{
 .ner-profile-picture{
   width: 475px;
   margin: 80px 55px 80px 64px;
+}
+
+.target-container{
+  text-align: center;
+  padding: 50px 0 30px 50px;
+  
+}
+
+
+.h-1{
+  font-weight: bold;
+  color:#0E0E0E ;
+  font-size: 40px;
+  margin-left: 50px;
+  margin-top: 80px;
+  margin-bottom: 24px;
+}
+
+
+
+.p-share{
+  font-size: 16px;
+  color: #0E0E0E;
+  margin-left: 50px;
+  margin-bottom: 32px;
+}
+.p-shares{
+  font-size: 16px;
+  color: #0E0E0E;
+  margin-bottom: 24px;
+}
+
+
+.box{
+  padding: 25px 215px 10px 25px;
+}
+
+
+
+
+
+.box-title{
+  text-align: justify;
+  padding: 30px;
+  font-weight: bold;
+  color:#0E0E0E ;
+  font-size: 40px;
+}
+.box1{
+  text-align: justify;
+  width: 302px;
+  height: 244px;
+  border: 1px solid gray;
+  background-color:#FFFFFF ;
+  border-radius: 16px;
+  padding: 10px;
+  margin-right: 24px;
+  justify-content: space-around;
+
+
+}
+.box2{
+  text-align: justify;
+  width: 302px;
+  height: 244px;
+  border: 1px solid gray;
+  background-color:#FFFFFF ;
+  border-radius: 16px;
+  padding: 10px;
+  margin-right: 24px;
+  justify-content: space-around;
+}
+.box3{
+  text-align: justify;
+  width: 302px;
+  height: 244px;
+  border: 1px solid gray;
+  background-color:#FFFFFF ;
+  border-radius: 16px;
+  padding: 10px;
+  margin-right: 24px;
+  justify-content: space-around;
+}
+.box4{
+  text-align: justify;
+  width: 302px;
+  height: 244px;
+  border: 1px solid gray;
+  background-color:#FFFFFF ;
+  border-radius: 16px;
+  padding: 10px;
+  margin-right: 5px;
+  justify-content: space-around;
+}
+.box-container{
+  display: flex;
+  justify-content: space-around;
+
+}
+
+
+
+
+.box-next-container{
+  /* padding: 50px 0 30px 50px; */
+  display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+
+.box-new-1{
+  text-align: justify;
+    width: 350px;
+    height: 250px;
+    /* border: 1px solid gray; */
+    padding: 20px;
+    background-color: #548ff56d;
+    border-radius: 7px;
+}
+.box-new-2{
+  text-align: justify;
+  width: 350px;
+  height: 250px;
+  /* border: 1px solid gray; */
+  padding: 20px;
+  background-color: #09a15d70;
+  border-radius: 7px;
+}
+.box-new-3{
+  text-align: justify;
+  width: 350px;
+  height: 250px;
+  /* border: 1px solid gray; */
+  padding: 20px;
+  background-color: #ffc43971;
+  border-radius: 8px;
+}
+
+.b-1{
+  background-color: #5490F5;
+  border-radius: 8px;
+  padding:10px ;
+  margin-left: 30px;
+  color:#FFFFFF;
+}
+.b-2{
+  background-color: #09a15d8e;
+  border-radius: 8px;
+  padding:10px ;
+  margin-left: 30px;
+  color:#FFFFFF;
+}
+.b-3{
+  background-color: #FFC239;
+  border-radius: 8px;
+  padding:10px ;
+  margin-left: 30px;
+  color:#FFFFFF;
+}
+
+.margin{
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+
+
+
+
+
+.summary{
+  background-color: #FFFFFF;
+  border-radius: 16px;
+  background-image: url('../assets/quote-bg.png');
+  background-repeat: no-repeat;
+  padding: 50px 0 50px 50px;
+  margin-top: 32px;
+  margin-left: 50px;
+  margin-bottom: 40px;
+  
+}
+
+
+.news-1{
+  display: flex;
+  padding: 50px;
+  justify-content: space-around;
+  margin: 0 auto;
+  /* border: 1px solid gray; */
+  margin-top: 50px;
+  background-color:#FFFFFF ;
+  text-align: justify;
+  border-radius: 24px;
+  margin-bottom: 50px;
+}
+
+.btn-read{
+  margin-left: 30px;
+  color:#FFFFFF ;
+  background-color: #006A50;
+  border-radius:8px ;
+  padding: 13px 26px 13px 26px;
+}
+
+
+.share-h2{
+  font-size: 32px;
+  font-weight: bold;
+  color: #0E0E0E;
+  margin-bottom: 5px;
+}
+.date{
+  margin-bottom: 15px;
 }
